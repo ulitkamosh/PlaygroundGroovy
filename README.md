@@ -6,3 +6,5 @@
 На языке [java](https://github.com/ulitkamosh/PlaygroundGroovy/blob/master/src/main/groovy/MainJava.java)
 
 На языке [groovy](https://github.com/ulitkamosh/PlaygroundGroovy/blob/master/src/main/groovy/MainGroovy.groovy)
+
+[Тесты] (https://github.com/ulitkamosh/PlaygroundGroovy/tree/master/src/test/groovy)
